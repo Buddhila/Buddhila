@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by [CODICES](codices.dev)
+- 📫 How to reach me by [codices.dev](https://codices.dev/)
 
 <!---
 Buddhila/Buddhila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
