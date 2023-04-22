@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Buddhila wickramarathne
 - 👀 I’m interested in Web Development 
 - ✨ Cofounder at [Codices](https://codices.dev/) Development Group
+<!-- - ✨ Founder at .... Development Group -->
 <!---- 💞️ I’m looking to collaborate on ...
 - 🌱 I’m currently learning AI
 
