@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Buddhila wickramarathne
-- 👀 I’m interested in Web Development 
+- 👀 I’m interested in project management 
 - ✨ Cofounder at [Codices](https://codices.dev/) Development Group
 <!-- - ✨ Founder at .... Development Group -->
 <!---- 💞️ I’m looking to collaborate on ...
