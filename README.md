@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning AI-->
 
 
-- 📫 How to reach me by [Buddhila](www.linkedin.com/in/buddhila)>
+- 📫 How to reach me by [Buddhila](https://www.linkedin.com/in/buddhila/)
 <!---
 Buddhila/Buddhila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
